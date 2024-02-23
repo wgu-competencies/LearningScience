@@ -48,7 +48,7 @@ Assessment Type: OA
 - [Handedness (Edinburgh)](https://www.physio-pedia.com/Edinburgh_Handedness_Inventory_(EHI))
 - [Eye Dominance (Miles Test)](https://www.verywellhealth.com/how-to-determine-eye-dominance-3421648#toc-how-to-test-for-eye-dominance)
 - [Big Five Personality Test](https://openpsychometrics.org/tests/IPIP-BFFM/)
-- [ADHD ASRS-v1.1](https://add.org/wp-content/uploads/2015/03/adhd-questionnaire-ASRS111.pdf)
+- [Adult ADHD Self-Report Scale (ASRS-v1.1)](https://add.org/wp-content/uploads/2015/03/adhd-questionnaire-ASRS111.pdf)
 
 - Cognitive Load
 - Sleep, Nutrition and Exercise
