@@ -1,0 +1,36 @@
+name: Lint Markdown Files
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '20.10.0'
+
+    - name: List files in the repository
+      run: ls -R
+
+    - name: Install TextLint and Rules
+      run: |
+        npm install -g textlint
+        npm install -g textlint-rule-no-todo
+        npm install -g textlint-rule-alive-link
+        npm install -g textlint-rule-unexpanded-acronym
+        npm install -g textlint-rule-alex
+
+    - name: Run textlint checks
+      run: textlint '**/*.md' --rule no-todo --rule alive-link --rule unexpanded-acronym --rule alex
