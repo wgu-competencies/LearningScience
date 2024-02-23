@@ -8,7 +8,7 @@ Contributing Skills:
   - [Evidence-Based Research Analysis](https://osmt.wgu.edu/api/skills/88932687-27a8-4ae3-a177-f629374bf132)
 Evidence Statements:
   - The learner identifies principles of neuroscience as it relates to learning.
-  - The learner identifies developmental levels of neuroscience of learning  (includes brain mapping) as applied in instructional practices.
+  - The learner identifies developmental levels of neuroscience of learning (includes brain mapping) as applied in instructional practices.
 Keywords:
   - Neuroscience
   - Instruction
@@ -20,11 +20,11 @@ Standards:
 Version: 1.0.0
 License: Copyright 2024 WGU. All Rights Reserved.
 Author:
-- Kristen Ford
-- Jessica Rodriguez
-- Angela Nelson
-- Karen Lea
-- Justin Burleson
+  - Kristen Ford
+  - Jessica Rodriguez
+  - Angela Nelson
+  - Karen Lea
+  - Justin Burleson
 Assessment Type: OA
 ---
 In this initial section, we aim to introduce students to the fascinating world of the neuroscience of learning. The neuroscience of learning is a multidisciplinary field that explores how the brain learns and absorbs information.
